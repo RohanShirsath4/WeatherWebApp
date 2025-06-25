@@ -10,7 +10,8 @@ Real-time data: Displays temperature, humidity, wind speed, weather description,
 Error handling: Alerts users if the city is invalid or API call fails. 
 Responsive design: Clean and mobile-friendly layout.
 
-🛠️ Technologies Used
+🛠️ Technologies Used.
+
 HTML5 for semantic layout and structure
 
 CSS3  for styling and responsiveness 
